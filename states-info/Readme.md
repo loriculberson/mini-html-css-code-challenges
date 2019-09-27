@@ -20,4 +20,4 @@ When I click on a different state button I would like the old state data to disa
 
 Good luck!
 
-![States info](https://github.homedepot.com/LXC3DEF/mini-app-code-assessments/blob/master/6week-states.png)
+![States info](https://github.homedepot.com/LXC3DEF/mini-app-code-assessments/blob/master/states-info/6week-states.png)

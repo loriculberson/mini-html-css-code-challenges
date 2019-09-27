@@ -13,5 +13,5 @@ I see the team names listed as li tag elements that are blue and sized 2 em.
 
 Good luck!
 
-![NL East teams](https://github.homedepot.com/LXC3DEF/mini-app-code-assessments/blob/master/6week-baseball.png)
+![NL East teams](https://github.homedepot.com/LXC3DEF/mini-app-code-assessments/blob/master/baseball-teams/6week-baseball.png)
 
