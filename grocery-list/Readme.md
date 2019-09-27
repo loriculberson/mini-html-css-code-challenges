@@ -18,4 +18,4 @@ the text input field should be cleared so that I may enter the next grocery item
 
 Good luck!
 
-![Grocery list](https://github.homedepot.com/OM-Assessments/grocery-list/blob/master/6week-grocery-list.png)
+![Grocery list](https://github.homedepot.com/LXC3DEF/mini-app-code-assessments/blob/master/6week-grocery-list.png)
