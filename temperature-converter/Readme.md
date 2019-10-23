@@ -17,4 +17,4 @@ Resources: Temperature conversion formula http://www.allmeasures.com/temperature
 
 Good luck!
 
-![Temperature Converter](https://github.homedepot.com/LXC3DEF/mini-app-code-assessments/blob/master/temperature-converter/6week-temp-converter.png)
+![Temperature Converter](https://github.homedepot.com/LXC3DEF/mini-html-css-code-challenges/blob/master/temperature-converter/6week-temp-converter.png)
